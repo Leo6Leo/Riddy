@@ -81,6 +81,9 @@ In order to run the Riddy carpooling matching system, you will need the followin
 - A blockchain platform such as Ethereum for smart contract deployment
 
 
+## Technical Flow Chart
+![riddy-flow](https://user-images.githubusercontent.com/36619969/212412311-a90d69e1-baed-4589-8bd1-87734d9c60f3.jpeg)
+
 
 ## Acknowledgements
 
