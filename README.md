@@ -1,5 +1,9 @@
 # Riddy - Sustainable Carpooling on the Blockchain
 
+Figma Prototype link: https://www.figma.com/file/Y04RknkQXIqA5Z5lKMyWuB/Untitled?node-id=127%3A65&t=l5rJaBKhieHMpfYj-1
+
+Youtube Presentation link: https://www.youtube.com/watch?v=xA8OAGD7aJw
+
 Welcome to Riddy, the decentralized, blockchain-based carpooling platform that connects drivers and passengers with similar schedules and routes while promoting sustainability and reducing the environmental impact of transportation. Our platform is built on smart contract technology, ensuring secure, transparent and tamper-proof transactions.
 
 We use the Tremble Maps API to match drivers and passengers based on their pre-planned commuting schedule, including earliest depart time, latest allowed arrival time, start location, destination, and vehicle capacity. Our system also uses Google Maps API traffic prediction to help predict expected trip time.
